@@ -28,6 +28,9 @@ html {
     
 }
 
+.gradient {
+    background-image: linear-gradient(to top, #ffb5df, #ffb7e5, #feb9ea, #fdbcf0, #fcbef6, #f9c5fa, #f7ccfd, #f5d2ff, #f4deff, #f5eaff, #f9f5ff, #ffffff);
+}
 
 
 /*HEADER*/
